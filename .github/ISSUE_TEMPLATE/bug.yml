@@ -1,0 +1,18 @@
+name: Problem · Fehler
+description: Something does not fit or work · Etwas passt oder funktioniert nicht
+labels: [bug]
+body:
+  - type: dropdown
+    id: area
+    attributes: {label: Area · Bereich, options: [Print / Druck, Mechanics / Mechanik, Electronics / Elektronik, Firmware, Documentation / Doku]}
+    validations: {required: true}
+  - type: textarea
+    id: what
+    attributes: {label: What happened? · Was ist passiert?}
+    validations: {required: true}
+  - type: textarea
+    id: expected
+    attributes: {label: What did you expect? · Was hast du erwartet?}
+  - type: input
+    id: rev
+    attributes: {label: Revision / firmware version, placeholder: Rev J / v1.1}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8.0 52.0 504.0 270.0" width="806" role="img" aria-label="Antriebsblock von außen mit eigener Platine, Inverter, Servo, Hall-Sensoren und Lager"><style>.ln{stroke:#17212B;fill:none;stroke-width:1.2}.thin{stroke:#17212B;fill:none;stroke-width:.7}.hid{stroke:#5A6873;fill:none;stroke-width:.9;stroke-dasharray:4 3}.ctr{stroke:#5A6873;fill:none;stroke-width:.6;stroke-dasharray:14 3 2 3}.ray{stroke:#B8322A;fill:none;stroke-width:.9;stroke-dasharray:6 4;opacity:.7}.dl{stroke:#2D6A88;fill:none;stroke-width:.8}.dt{fill:#2D6A88;font:500 11px "IBM Plex Mono",Menlo,Consolas,monospace}.lb{fill:#17212B;font:500 11.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.lbm{fill:#5A6873;font:400 10.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.f-tube{fill:#D9DFE2;stroke:#17212B;stroke-width:1}.f-cap{fill:#2A343D}.f-lid{fill:#3C4650;stroke:#17212B;stroke-width:.8}.f-diff{fill:#F4F0E6;stroke:#17212B;stroke-width:.6}.f-el{fill:#9FD8CF;stroke:#17212B;stroke-width:.6}.f-felt{fill:#7B6A55}.f-warn{fill:#C9861A}.f-acc{fill:#B8322A}.f-sheet{fill:#FFFFFF;stroke:#17212B;stroke-width:1}.lead-l{stroke:#5A6873;stroke-width:.7;fill:none}</style><rect x="8.0" y="52.0" width="504.0" height="270.0" rx="8" fill="#FFFFFF" stroke="#C7D0D3"/>
+      <rect class="f-sheet" x="100" y="100" width="312" height="158" rx="6"/>
+      <line class="hid" x1="328" y1="74" x2="328" y2="282"/>
+      <rect class="hid" x="110" y="110" width="163" height="67"/>
+      <rect x="128" y="119" width="36" height="48" fill="none" stroke="#2D6A88" stroke-width="1"/><text class="lbm" x="131" y="146">ESP32</text>
+      <rect x="172" y="122" width="30" height="40" fill="none" stroke="#2D6A88" stroke-width="1"/><text class="lbm" x="174" y="146">6 V</text>
+      <rect x="208" y="122" width="30" height="40" fill="none" stroke="#2D6A88" stroke-width="1"/><text class="lbm" x="210" y="146">FET</text>
+      <rect x="110" y="128" width="12" height="14" class="f-acc"/>
+      <rect x="250" y="134" width="10" height="10" fill="#C9861A"/><path class="lead-l" d="M255 134 L246 80"/><text class="lbm" x="222" y="76">Hall AUF</text>
+      <rect class="hid" x="110" y="184" width="120" height="66"/><text class="lbm" x="140" y="214">EL-Inverter</text><text class="lbm" x="140" y="228">(Maß offen)</text>
+      <rect class="hid" x="302" y="119" width="96" height="97"/><text class="lbm" x="308" y="150">Servo</text><text class="lbm" x="308" y="164">DS3218</text><text class="lbm" x="308" y="178">270°</text>
+      <rect x="340" y="230" width="10" height="10" fill="#C9861A"/><text class="lbm" x="284" y="239">Hall ZU</text>
+      <line class="ctr" x1="383" y1="76" x2="383" y2="282"/>
+      <rect x="371" y="82" width="24" height="14" fill="#3C4650"/><rect x="371" y="262" width="24" height="14" fill="#3C4650"/>
+      <circle cx="383" cy="244" r="9" fill="none" stroke="#17212B"/><circle cx="383" cy="244" r="3.5" fill="#B8322A"/>
+      <rect x="88" y="190" width="14" height="22" fill="#17212B"/><rect x="90" y="222" width="12" height="16" rx="3" fill="#5A6873"/>
+      <g stroke="#17212B" stroke-width="1.5"><line x1="100" y1="126" x2="100" y2="144"/></g>
+      <text class="lb" x="24" y="140">BME280</text><text class="lbm" x="24" y="153">an Lüftung</text>
+      <text class="lb" x="24" y="205">12 V</text><text class="lbm" x="24" y="234">USB-C</text>
+      <rect x="250" y="256" width="24" height="10" fill="#17212B"/><text class="lbm" x="200" y="282">Heizung Fangspiegel</text>
+      <text class="lbm" x="300" y="300">Kappenvorderkante</text>
+      <text class="lbm" x="400" y="80">Deckelarm</text>
+      <text class="lbm" x="400" y="232">608-Lager</text>
+      <text class="lbm" x="100" y="92">← hinten (Okularseite)</text><text class="lbm" x="270" y="92">vorne →</text>
+    </svg>

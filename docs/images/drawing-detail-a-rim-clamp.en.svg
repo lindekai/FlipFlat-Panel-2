@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="138.0 88.0 584.0 224.0" width="934" role="img" aria-label="Section through the U-profile rim clamp on the tube edge"><style>.ln{stroke:#17212B;fill:none;stroke-width:1.2}.thin{stroke:#17212B;fill:none;stroke-width:.7}.hid{stroke:#5A6873;fill:none;stroke-width:.9;stroke-dasharray:4 3}.ctr{stroke:#5A6873;fill:none;stroke-width:.6;stroke-dasharray:14 3 2 3}.ray{stroke:#B8322A;fill:none;stroke-width:.9;stroke-dasharray:6 4;opacity:.7}.dl{stroke:#2D6A88;fill:none;stroke-width:.8}.dt{fill:#2D6A88;font:500 11px "IBM Plex Mono",Menlo,Consolas,monospace}.lb{fill:#17212B;font:500 11.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.lbm{fill:#5A6873;font:400 10.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.f-tube{fill:#D9DFE2;stroke:#17212B;stroke-width:1}.f-cap{fill:#2A343D}.f-lid{fill:#3C4650;stroke:#17212B;stroke-width:.8}.f-diff{fill:#F4F0E6;stroke:#17212B;stroke-width:.6}.f-el{fill:#9FD8CF;stroke:#17212B;stroke-width:.6}.f-felt{fill:#7B6A55}.f-warn{fill:#C9861A}.f-acc{fill:#B8322A}.f-sheet{fill:#FFFFFF;stroke:#17212B;stroke-width:1}.lead-l{stroke:#5A6873;stroke-width:.7;fill:none}</style><rect x="138.0" y="88.0" width="584.0" height="224.0" rx="8" fill="#FFFFFF" stroke="#C7D0D3"/>
+      <defs>
+        <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#FFFFFF"/><line x1="0" y1="0" x2="0" y2="6" stroke="#2A343D" stroke-width="1.4"/></pattern>
+      </defs>
+      <!-- Tubuswand -->
+      <rect x="160" y="200" width="170" height="6" class="f-tube"/>
+      <text class="lbm" x="152" y="214">Tube</text>
+      <!-- Profil -->
+      <path d="M200 185 H342 V185 L342 185 H700 V197 H342 V208 H342 V218 H210 V208 H330 V197 H212 V205 Q204 205 200 197 Z" fill="url(#hatch)" stroke="#17212B" stroke-width="1"/>
+      <!-- Boss für Einsatz -->
+      <path d="M244 185 V162 Q244 158 248 158 H284 Q288 158 288 162 V185 Z" fill="url(#hatch)" stroke="#17212B" stroke-width="1"/>
+      <rect x="258" y="160" width="16" height="37" fill="#5A6873" opacity=".35"/>
+      <!-- Lippen-Boss mit Gewindeeinsatz -->
+      <path d="M246 218 V230 Q246 234 250 234 H282 Q286 234 286 230 V218 Z" fill="url(#hatch)" stroke="#17212B" stroke-width="1"/>
+      <rect x="259" y="208" width="14" height="24" fill="#5A6873" opacity=".55"/>
+      <!-- Schraube durch vorhandene Tubusbohrung -->
+      <rect x="252" y="128" width="28" height="12" rx="3" fill="#17212B"/>
+      <rect x="262" y="140" width="8" height="88" fill="#17212B"/>
+      <path class="lead-l" d="M280 230 L250 280"/><text class="lb" x="160" y="292">Threaded insert in lip boss</text>
+      <!-- Blende/Mantel-Hinweis -->
+      <!-- Labels -->
+      <path class="lead-l" d="M560 197 L560 226"/><text class="lb" x="470" y="240">Shell 2.0 mm → to dew shield</text>
+      <path class="lead-l" d="M336 192 L380 150"/><text class="lb" x="383" y="146">Stop shoulder on tube rim</text>
+      <path class="lead-l" d="M240 213 L300 262"/><text class="lb" x="303" y="266">Inner lip 1.6 mm, ≈ 20 mm deep, centres and supports</text>
+      <path class="lead-l" d="M220 191 L190 160"/><text class="lb" x="152" y="154">Outer skirt</text>
+      <path class="lead-l" d="M280 134 L330 120"/><text class="lb" x="333" y="118">Screw through existing hole in tube</text>
+      <!-- Bemaßung Nut -->
+      <path class="lead-l" d="M214 201 L200 234"/><text class="dt" x="160" y="246">Slot = t + 0.75</text>
+    </svg>

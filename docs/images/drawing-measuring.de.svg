@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" role="img" aria-label="Was gemessen wird">
+<style>.ln{stroke:#17212B;fill:none;stroke-width:1.3}.hid{stroke:#5A6873;fill:none;stroke-width:.9;stroke-dasharray:5 4}.ctr{stroke:#5A6873;fill:none;stroke-width:.7;stroke-dasharray:16 4 2 4}
+.dl{stroke:#2D6A88;fill:none;stroke-width:1}.dt{fill:#2D6A88;font:600 13px "IBM Plex Mono",Menlo,Consolas,monospace}.lb{fill:#17212B;font:500 13px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}
+.lbm{fill:#5A6873;font:400 12px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.h{fill:#17212B;font:700 15px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}</style>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L10 5 L0 9 Z" fill="#2D6A88"/></marker>
+<pattern id="hat" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#17212B" stroke-width="1"/></pattern></defs>
+<rect x="1" y="1" width="958" height="468" rx="10" fill="#FFFFFF" stroke="#C7D0D3"/>
+<text class="h" x="28" y="36">Seitenschnitt Tubusende (weißer Ring abgebaut)</text>
+<!-- tube walls -->
+<rect x="40" y="96" width="440" height="8" fill="url(#hat)" stroke="#17212B"/>
+<rect x="40" y="356" width="440" height="8" fill="url(#hat)" stroke="#17212B"/>
+<line class="ctr" x1="30" y1="230" x2="520" y2="230"/>
+<line class="ln" x1="480" y1="80" x2="480" y2="380" stroke-dasharray="2 3"/><text class="lbm" x="486" y="392">Vorderkante</text>
+<!-- hole -->
+<rect x="452" y="94" width="8" height="12" fill="#B8322A"/>
+<text class="lbm" x="372" y="84">Bohrung (Ø / Gewinde)</text>
+<!-- spider -->
+<rect x="330" y="104" width="10" height="7" fill="#C9861A"/><rect x="330" y="349" width="10" height="7" fill="#C9861A"/>
+<line class="hid" x1="335" y1="111" x2="335" y2="349"/><text class="lbm" x="300" y="128">Spinne</text>
+<!-- secondary -->
+<line x1="215" y1="205" x2="245" y2="255" stroke="#17212B" stroke-width="4"/><text class="lbm" x="190" y="196">Fangspiegel</text>
+<text class="lbm" x="60" y="340">Tubus</text>
+<!-- D -->
+<line class="dl" x1="40" y1="92" x2="40" y2="368" marker-start="url(#ar)" marker-end="url(#ar)"/><text class="dt" x="48" y="226">① D – Außen-Ø</text>
+<!-- t -->
+<line class="dl" x1="140" y1="72" x2="140" y2="96" marker-end="url(#ar)"/><line class="dl" x1="140" y1="128" x2="140" y2="104" marker-end="url(#ar)"/><text class="dt" x="148" y="80">② t – Wandstärke</text>
+<!-- a -->
+<line class="dl" x1="456" y1="60" x2="456" y2="92"/><line class="dl" x1="456" y1="64" x2="480" y2="64" marker-start="url(#ar)" marker-end="url(#ar)"/><text class="dt" x="340" y="56">③ a – Bohrung ab Kante</text>
+<!-- s -->
+<line class="dl" x1="335" y1="358" x2="335" y2="404"/><line class="dl" x1="480" y1="380" x2="480" y2="404"/><line class="dl" x1="335" y1="398" x2="480" y2="398" marker-start="url(#ar)" marker-end="url(#ar)"/><text class="dt" x="300" y="420">④ s – Spinnenschraube ab Kante</text>
+<!-- f -->
+<line class="dl" x1="230" y1="262" x2="230" y2="440"/><line class="dl" x1="480" y1="404" x2="480" y2="440"/><line class="dl" x1="230" y1="434" x2="480" y2="434" marker-start="url(#ar)" marker-end="url(#ar)"/><text class="dt" x="236" y="456">⑤ f – Fangspiegel ab Kante</text>
+<!-- front view -->
+<line x1="560" y1="20" x2="560" y2="450" stroke="#C7D0D3"/>
+<text class="h" x="588" y="36">Ansicht von vorn</text>
+<circle cx="760" cy="240" r="150" fill="none" stroke="#17212B" stroke-width="7"/>
+<line class="ctr" x1="760" y1="70" x2="760" y2="410"/><line class="ctr" x1="590" y1="240" x2="930" y2="240"/>
+<g stroke="#17212B" stroke-width="2"><line x1="760" y1="93" x2="760" y2="387"/><line x1="613" y1="240" x2="907" y2="240"/></g>
+<circle cx="760" cy="240" r="34" fill="#3C4650"/>
+<text class="lbm" x="752" y="128" text-anchor="end">Strebe</text>
+<g fill="#B8322A"><circle cx="890" cy="165" r="6"/><circle cx="760" cy="390" r="6"/><circle cx="630" cy="165" r="6"/></g>
+<path class="dl" d="M760 140 A100 100 0 0 1 846.6 190" marker-end="url(#ar)"/><text class="dt" x="812" y="134">α</text>
+<text class="dt" x="588" y="428">⑥ Winkellage der Bohrungen ab 12 Uhr</text>
+<text class="lbm" x="588" y="452">Tipp: D = Umfang ÷ π (Maßband) oder Messschieber an 3 Stellen</text>
+</svg>

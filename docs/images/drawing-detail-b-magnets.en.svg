@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="138.0 116.0 504.0 204.0" width="806" role="img" aria-label="Section through cap front edge and closed lid with magnet and steel disc"><style>.ln{stroke:#17212B;fill:none;stroke-width:1.2}.thin{stroke:#17212B;fill:none;stroke-width:.7}.hid{stroke:#5A6873;fill:none;stroke-width:.9;stroke-dasharray:4 3}.ctr{stroke:#5A6873;fill:none;stroke-width:.6;stroke-dasharray:14 3 2 3}.ray{stroke:#B8322A;fill:none;stroke-width:.9;stroke-dasharray:6 4;opacity:.7}.dl{stroke:#2D6A88;fill:none;stroke-width:.8}.dt{fill:#2D6A88;font:500 11px "IBM Plex Mono",Menlo,Consolas,monospace}.lb{fill:#17212B;font:500 11.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.lbm{fill:#5A6873;font:400 10.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.f-tube{fill:#D9DFE2;stroke:#17212B;stroke-width:1}.f-cap{fill:#2A343D}.f-lid{fill:#3C4650;stroke:#17212B;stroke-width:.8}.f-diff{fill:#F4F0E6;stroke:#17212B;stroke-width:.6}.f-el{fill:#9FD8CF;stroke:#17212B;stroke-width:.6}.f-felt{fill:#7B6A55}.f-warn{fill:#C9861A}.f-acc{fill:#B8322A}.f-sheet{fill:#FFFFFF;stroke:#17212B;stroke-width:1}.lead-l{stroke:#5A6873;stroke-width:.7;fill:none}</style><rect x="138.0" y="116.0" width="504.0" height="204.0" rx="8" fill="#FFFFFF" stroke="#C7D0D3"/>
+      <defs>
+        <pattern id="hatchB" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#FFFFFF"/><line x1="0" y1="0" x2="0" y2="6" stroke="#2A343D" stroke-width="1.4"/></pattern>
+        <pattern id="hatchL" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><rect width="6" height="6" fill="#FFFFFF"/><line x1="0" y1="0" x2="0" y2="6" stroke="#3C4650" stroke-width="1.4"/></pattern>
+      </defs>
+      <!-- Kappe -->
+      <rect x="160" y="186" width="202" height="10" fill="url(#hatchB)" stroke="#17212B" stroke-width="1"/>
+      <rect x="360" y="172" width="40" height="38" fill="url(#hatchB)" stroke="#17212B" stroke-width="1"/>
+      <rect x="386" y="178" width="10" height="26" class="f-acc"/>
+      <text class="lb" x="190" y="180">Cap</text>
+      <!-- Deckel -->
+      <path d="M384 158 H470 V300 H400 V170 H384 Z" fill="url(#hatchL)" stroke="#17212B" stroke-width="1"/>
+      <rect x="402" y="178" width="6" height="26" fill="#5A6873"/>
+      <rect x="412" y="216" width="6" height="84" class="f-diff"/>
+      <rect x="418" y="216" width="3" height="84" class="f-el"/>
+      <text class="lb" x="480" y="282">Lid</text>
+      <!-- Lichtweg -->
+      <path class="ray" d="M300 150 H378 V176"/><text class="lbm" x="372" y="150" fill="#B8322A">✕</text>
+      <!-- Labels -->
+      <path class="lead-l" d="M391 204 L330 246"/><text class="lb" x="160" y="252">Magnet 6 × 2 mm, embedded</text><text class="lbm" x="160" y="266">print pause, 0.6 mm skin</text>
+      <path class="lead-l" d="M406 184 L480 160"/><text class="lb" x="483" y="158">Steel disc in lid ring</text>
+      <path class="lead-l" d="M392 160 L330 140"/><text class="lb" x="160" y="140">Lip overlaps the edge</text>
+      <text class="lbm" x="483" y="208">Carrier plate + EL foil</text><path class="lead-l" d="M421 220 L480 205"/>
+    </svg>

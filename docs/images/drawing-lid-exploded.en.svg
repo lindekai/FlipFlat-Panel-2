@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12.0 -12.0 844.0 354.0" width="1350" role="img" aria-label="Exploded view of the lid: frame and carrier plate"><style>.ln{stroke:#17212B;fill:none;stroke-width:1.2}.thin{stroke:#17212B;fill:none;stroke-width:.7}.hid{stroke:#5A6873;fill:none;stroke-width:.9;stroke-dasharray:4 3}.ctr{stroke:#5A6873;fill:none;stroke-width:.6;stroke-dasharray:14 3 2 3}.ray{stroke:#B8322A;fill:none;stroke-width:.9;stroke-dasharray:6 4;opacity:.7}.dl{stroke:#2D6A88;fill:none;stroke-width:.8}.dt{fill:#2D6A88;font:500 11px "IBM Plex Mono",Menlo,Consolas,monospace}.lb{fill:#17212B;font:500 11.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.lbm{fill:#5A6873;font:400 10.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.f-tube{fill:#D9DFE2;stroke:#17212B;stroke-width:1}.f-cap{fill:#2A343D}.f-lid{fill:#3C4650;stroke:#17212B;stroke-width:.8}.f-diff{fill:#F4F0E6;stroke:#17212B;stroke-width:.6}.f-el{fill:#9FD8CF;stroke:#17212B;stroke-width:.6}.f-felt{fill:#7B6A55}.f-warn{fill:#C9861A}.f-acc{fill:#B8322A}.f-sheet{fill:#FFFFFF;stroke:#17212B;stroke-width:1}.lead-l{stroke:#5A6873;stroke-width:.7;fill:none}</style><rect x="-12.0" y="-12.0" width="844.0" height="354.0" rx="8" fill="#FFFFFF" stroke="#C7D0D3"/>
+      <line class="ctr" x1="20" y1="150" x2="800" y2="150"/>
+      <path d="M150 39 L166 39 A26 111 0 0 1 166 261 L150 261" fill="#3C4650" stroke="#17212B" stroke-width=".8"/>
+      <ellipse cx="150" cy="150" rx="26" ry="111" fill="#3C4650" stroke="#17212B" stroke-width=".8"/>
+      <ellipse cx="150" cy="150" rx="20" ry="100" fill="#FFFFFF" stroke="#17212B" stroke-width=".6"/>
+      <g fill="#5A6873"><circle cx="150" cy="44" r="3"/><circle cx="150" cy="256" r="3"/><circle cx="131" cy="80" r="3"/><circle cx="131" cy="220" r="3"/><circle cx="169" cy="80" r="3"/><circle cx="169" cy="220" r="3"/></g>
+      <path d="M380 49 L388 49 A22 101 0 0 1 388 251 L380 251" fill="#5A6873" stroke="#17212B" stroke-width=".8"/>
+      <ellipse cx="380" cy="150" rx="22" ry="101" fill="#5A6873" stroke="#17212B" stroke-width=".8"/>
+      <ellipse cx="392" cy="150" rx="20" ry="96" class="f-el"/>
+      <rect x="386" y="244" width="12" height="22" fill="#17212B"/>
+      <ellipse cx="590" cy="150" rx="22" ry="100" fill="none" stroke="#5A6873" stroke-dasharray="5 4"/>
+      <line class="dl" x1="680" y1="150" x2="790" y2="150" marker-end="url(#ar2)"/>
+      <defs><marker id="ar2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 1 L10 5 L0 9 Z" fill="#2D6A88"/></marker></defs>
+      <text class="dt" x="700" y="140">towards telescope</text>
+      <g class="lb" text-anchor="middle">
+        <text x="155" y="290">Lid frame (printed)</text><text x="385" y="290">Carrier plate + EL foil</text><text x="590" y="290">Diffuser (optional)</text>
+      </g>
+      <g class="lbm" text-anchor="middle">
+        <text x="155" y="306">Ø<tspan id="eLid">246.5</tspan> · lip, steel discs, arm mount</text><text x="385" y="306">existing · max. Ø<tspan id="eDiff">228.5</tspan> · EL ≥ Ø<tspan id="eEl">225</tspan></text><text x="590" y="306">only if flats are uneven</text>
+      </g>
+    </svg>

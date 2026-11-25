@@ -1,0 +1,28 @@
+name: Measurements · Messwerte
+description: Measured values of a telescope tube · Messwerte eines Tubus
+title: "[Measurements] "
+labels: [measurements]
+body:
+  - type: input
+    id: scope
+    attributes: {label: Telescope · Teleskop, placeholder: Skywatcher 200/1000 PDS}
+    validations: {required: true}
+  - type: textarea
+    id: values
+    attributes:
+      label: Values · Werte
+      description: See docs/en/measuring.md · Siehe docs/de/messen.md
+      value: |
+        ① D outer Ø · Außen-Ø:              ___ mm   (circumference · Umfang: ___ mm)
+        ② t wall · Wandstärke:              ___ mm   edge straight/flanged · Kante gerade/gebördelt
+        ③ weight white ring · Gewicht Ring: ___ g
+        ④ holes · Bohrungen: count ___  α: ___  a: ___ mm  Ø/thread: ___  screw: ___
+        ⑤ s spider screw · Spinnenschraube: ___ mm
+        ⑥ f secondary · Fangspiegel:        ___ mm   vane at 12 · Strebe bei 12 Uhr: yes/no
+        ⑦ carrier plate · Trägerplatte:     Ø ___ / ___ mm / ___ g   lit area · Leuchtfläche Ø ___
+        ⑧ inverter · Inverter L×W×H:        ___ × ___ × ___ mm
+        ⑨ finder/dovetail/focuser (o'clock): ___ / ___ / ___
+    validations: {required: true}
+  - type: textarea
+    id: photos
+    attributes: {label: Photos · Fotos}

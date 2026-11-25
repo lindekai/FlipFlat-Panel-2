@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12.0 28.0 744.0 434.0" width="1190" role="img" aria-label="Bemaßte Seitenansicht der Taukappe mit geschlossenem Deckel"><style>.ln{stroke:#17212B;fill:none;stroke-width:1.2}.thin{stroke:#17212B;fill:none;stroke-width:.7}.hid{stroke:#5A6873;fill:none;stroke-width:.9;stroke-dasharray:4 3}.ctr{stroke:#5A6873;fill:none;stroke-width:.6;stroke-dasharray:14 3 2 3}.ray{stroke:#B8322A;fill:none;stroke-width:.9;stroke-dasharray:6 4;opacity:.7}.dl{stroke:#2D6A88;fill:none;stroke-width:.8}.dt{fill:#2D6A88;font:500 11px "IBM Plex Mono",Menlo,Consolas,monospace}.lb{fill:#17212B;font:500 11.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.lbm{fill:#5A6873;font:400 10.5px "IBM Plex Sans","Segoe UI",Helvetica,Arial,sans-serif}.f-tube{fill:#D9DFE2;stroke:#17212B;stroke-width:1}.f-cap{fill:#2A343D}.f-lid{fill:#3C4650;stroke:#17212B;stroke-width:.8}.f-diff{fill:#F4F0E6;stroke:#17212B;stroke-width:.6}.f-el{fill:#9FD8CF;stroke:#17212B;stroke-width:.6}.f-felt{fill:#7B6A55}.f-warn{fill:#C9861A}.f-acc{fill:#B8322A}.f-sheet{fill:#FFFFFF;stroke:#17212B;stroke-width:1}.lead-l{stroke:#5A6873;stroke-width:.7;fill:none}</style><rect x="-12.0" y="28.0" width="744.0" height="434.0" rx="8" fill="#FFFFFF" stroke="#C7D0D3"/>
+      <defs>
+        <marker id="ar" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L10 5 L0 9 Z" fill="#2D6A88"/></marker>
+      </defs>
+      <line class="ctr" x1="40" y1="250" x2="580" y2="250"/>
+      <!-- Tubus -->
+      <path class="f-tube" d="M330 134 H60 C52 163 68 192 60 221 C52 250 68 279 60 308 C52 337 68 352 60 366 H330 Z"/>
+      <text class="lbm" x="120" y="255">Tubus 200/1000 PDS</text>
+      <!-- Fangspiegel + Spinne -->
+      <line class="hid" x1="300" y1="138" x2="300" y2="362"/>
+      <line x1="286" y1="232" x2="314" y2="268" stroke="#17212B" stroke-width="3"/>
+      <rect class="f-warn" x="297" y="127" width="6" height="7"/>
+      <path class="lead-l" d="M300 127 L262 98"/><text class="lb" x="150" y="94">Spinnenschraube (Lage messen!)</text>
+      <!-- Strahlengang -->
+      <line class="ray" x1="330" y1="150" x2="528" y2="150"/><line class="ray" x1="330" y1="350" x2="528" y2="350"/>
+      <text class="lbm" x="336" y="196" fill="#B8322A">Strahlengang Ø200</text>
+      <!-- Kappe -->
+      <rect class="f-cap" x="305" y="129" width="225" height="4"/>
+      <rect class="f-cap" x="305" y="367" width="225" height="4"/>
+      <g class="f-cap"><rect x="310" y="136" width="23" height="3"/><rect x="310" y="361" width="23" height="3"/><rect x="330" y="129" width="3" height="10"/><rect x="330" y="361" width="3" height="10"/></g>
+      <circle cx="330" cy="134" r="11" fill="none" stroke="#B8322A" stroke-width=".9"/><text class="lb" x="344" y="122" fill="#B8322A">A</text>
+      <g class="f-cap">
+        <rect x="526" y="133" width="4" height="7"/><rect x="526" y="360" width="4" height="7"/>
+      </g>
+      <path d="M335 133 L337 134.6 L337 133 L338 133 L340 134.6 L340 133 L341 133 L343 134.6 L343 133 L344 133 L346 134.6 L346 133 L347 133 L349 134.6 L349 133 L350 133 L352 134.6 L352 133 L353 133 L355 134.6 L355 133 L356 133 L358 134.6 L358 133 L359 133 L361 134.6 L361 133 L362 133 L364 134.6 L364 133 L365 133 L367 134.6 L367 133 L368 133 L370 134.6 L370 133 L371 133 L373 134.6 L373 133 L374 133 L376 134.6 L376 133 L377 133 L379 134.6 L379 133 L380 133 L382 134.6 L382 133 L383 133 L385 134.6 L385 133 L386 133 L388 134.6 L388 133 L389 133 L391 134.6 L391 133 L392 133 L394 134.6 L394 133 L395 133 L397 134.6 L397 133 L398 133 L400 134.6 L400 133 L401 133 L403 134.6 L403 133 L404 133 L406 134.6 L406 133 L407 133 L409 134.6 L409 133 L410 133 L412 134.6 L412 133 L413 133 L415 134.6 L415 133 L416 133 L418 134.6 L418 133 L419 133 L421 134.6 L421 133 L422 133 L424 134.6 L424 133 L425 133 L427 134.6 L427 133 L428 133 L430 134.6 L430 133 L431 133 L433 134.6 L433 133 L434 133 L436 134.6 L436 133 L437 133 L439 134.6 L439 133 L440 133 L442 134.6 L442 133 L443 133 L445 134.6 L445 133 L446 133 L448 134.6 L448 133 L449 133 L451 134.6 L451 133 L452 133 L454 134.6 L454 133 L455 133 L457 134.6 L457 133 L458 133 L460 134.6 L460 133 L461 133 L463 134.6 L463 133 L464 133 L466 134.6 L466 133 L467 133 L469 134.6 L469 133 L470 133 L472 134.6 L472 133 L473 133 L475 134.6 L475 133 L476 133 L478 134.6 L478 133 L479 133 L481 134.6 L481 133 L482 133 L484 134.6 L484 133 L485 133 L487 134.6 L487 133 L488 133 L490 134.6 L490 133 L491 133 L493 134.6 L493 133 L494 133 L496 134.6 L496 133 L497 133 L499 134.6 L499 133 L500 133 L502 134.6 L502 133 L503 133 L505 134.6 L505 133 L506 133 L508 134.6 L508 133 L509 133 L511 134.6 L511 133 L512 133 L514 134.6 L514 133 L515 133 L517 134.6 L517 133 L518 133 L520 134.6 L520 133 L521 133 L523 134.6 L523 133 L524 133" fill="none" stroke="#2A343D" stroke-width=".8"/><path d="M335 367 L337 365.4 L337 367 L338 367 L340 365.4 L340 367 L341 367 L343 365.4 L343 367 L344 367 L346 365.4 L346 367 L347 367 L349 365.4 L349 367 L350 367 L352 365.4 L352 367 L353 367 L355 365.4 L355 367 L356 367 L358 365.4 L358 367 L359 367 L361 365.4 L361 367 L362 367 L364 365.4 L364 367 L365 367 L367 365.4 L367 367 L368 367 L370 365.4 L370 367 L371 367 L373 365.4 L373 367 L374 367 L376 365.4 L376 367 L377 367 L379 365.4 L379 367 L380 367 L382 365.4 L382 367 L383 367 L385 365.4 L385 367 L386 367 L388 365.4 L388 367 L389 367 L391 365.4 L391 367 L392 367 L394 365.4 L394 367 L395 367 L397 365.4 L397 367 L398 367 L400 365.4 L400 367 L401 367 L403 365.4 L403 367 L404 367 L406 365.4 L406 367 L407 367 L409 365.4 L409 367 L410 367 L412 365.4 L412 367 L413 367 L415 365.4 L415 367 L416 367 L418 365.4 L418 367 L419 367 L421 365.4 L421 367 L422 367 L424 365.4 L424 367 L425 367 L427 365.4 L427 367 L428 367 L430 365.4 L430 367 L431 367 L433 365.4 L433 367 L434 367 L436 365.4 L436 367 L437 367 L439 365.4 L439 367 L440 367 L442 365.4 L442 367 L443 367 L445 365.4 L445 367 L446 367 L448 365.4 L448 367 L449 367 L451 365.4 L451 367 L452 367 L454 365.4 L454 367 L455 367 L457 365.4 L457 367 L458 367 L460 365.4 L460 367 L461 367 L463 365.4 L463 367 L464 367 L466 365.4 L466 367 L467 367 L469 365.4 L469 367 L470 367 L472 365.4 L472 367 L473 367 L475 365.4 L475 367 L476 367 L478 365.4 L478 367 L479 367 L481 365.4 L481 367 L482 367 L484 365.4 L484 367 L485 367 L487 365.4 L487 367 L488 367 L490 365.4 L490 367 L491 367 L493 365.4 L493 367 L494 367 L496 365.4 L496 367 L497 367 L499 365.4 L499 367 L500 367 L502 365.4 L502 367 L503 367 L505 365.4 L505 367 L506 367 L508 365.4 L508 367 L509 367 L511 365.4 L511 367 L512 367 L514 365.4 L514 367 L515 367 L517 365.4 L517 367 L518 367 L520 365.4 L520 367 L521 367 L523 365.4 L523 367 L524 367" fill="none" stroke="#2A343D" stroke-width=".8"/>
+      <text class="lbm" x="356" y="345">ein Druckteil, 225 mm</text>
+      <path class="lead-l" d="M441 136 L470 196"/><text class="lb" x="452" y="210">Feine Rillen innen</text>
+      <!-- Klemmschraube unten -->
+      <rect class="f-acc" x="313" y="371" width="10" height="10" rx="2"/>
+      <path class="lead-l" d="M313 380 L240 395"/><text class="lb" x="80" y="399">Schrauben in vorh. Bohrungen</text>
+      <!-- Elektronikbox + Scharnierbock -->
+      <path class="f-sheet" d="M410 129 V104 Q410 101 413 101 H562 Q565 101 565 104 V124 H530 V129 Z"/>
+      <rect class="hid" x="420" y="112" width="55" height="8"/><text class="lbm" x="422" y="110">PCB</text>
+      <rect class="hid" x="478" y="106" width="34" height="18"/><text class="lbm" x="481" y="119">Inv.</text>
+      <rect class="hid" x="515" y="104" width="40" height="20"/>
+      <circle class="f-acc" cx="557" cy="112" r="4.5"/>
+      <path class="lead-l" d="M440 101 L420 70"/><text class="lb" x="300" y="66">Antriebsblock ≈ 130 × 66 × 24</text>
+      <path class="lead-l" d="M562 104 L590 84"/><text class="lb" x="593" y="82">Servo direkt</text><text class="lbm" x="593" y="95">auf der Deckelachse</text>
+      <!-- Kabelkanal außen + Heizkabel innen -->
+      <rect x="305" y="120" width="130" height="9" rx="2" fill="#2A343D"/>
+      <rect x="296" y="114" width="12" height="15" rx="2" fill="#B8322A"/>
+      <path class="lead-l" d="M300 114 L250 56"/><text class="lb" x="100" y="54">12-V-Buchse am Klemmring</text>
+      <path class="lead-l" d="M380 121 L390 152"/><text class="lb" x="352" y="168">Kabelkanal in der Wand</text>
+      <path d="M445 133 H330 L310 140 V226" fill="none" stroke="#C9861A" stroke-width="1.4" stroke-dasharray="5 3"/>
+      <rect x="314" y="137" width="8" height="6" fill="#C9861A"/>
+      <text class="lbm" x="200" y="300" fill="#C9861A">Heizkabel innen → Strebe → Fangspiegel</text>
+      <!-- Deckel geschlossen -->
+      <g>
+        <path d="M557 112 L561 126 L547 142" fill="none" stroke="#3C4650" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect class="f-lid" x="532" y="126" width="14" height="248" rx="2"/>
+        <rect class="f-diff" x="533" y="138" width="3" height="224"/>
+        <rect class="f-el" x="536.5" y="140" width="1.5" height="220"/>
+      </g>
+      <path class="lead-l" d="M546 300 L580 312"/><text class="lb" x="583" y="316">Deckel mit EL-Folie</text>
+      <!-- Bemaßung horizontal -->
+      <g class="dl"><line x1="305" y1="383" x2="305" y2="434"/><line x1="330" y1="371" x2="330" y2="406"/><line x1="530" y1="373" x2="530" y2="434"/></g>
+      <line class="dl" x1="305" y1="402" x2="330" y2="402" marker-start="url(#ar)" marker-end="url(#ar)"/>
+      <text class="dt" x="306" y="397">25</text>
+      <line class="dl" x1="330" y1="402" x2="530" y2="402" marker-start="url(#ar)" marker-end="url(#ar)"/>
+      <text class="dt" x="380" y="397">200 Überstand vor Tubus</text>
+      <line class="dl" x1="305" y1="430" x2="530" y2="430" marker-start="url(#ar)" marker-end="url(#ar)"/>
+      <text class="dt" x="365" y="425">225 Gesamtlänge</text>
+      <!-- Bemaßung vertikal -->
+      <g class="dl"><line x1="38" y1="134" x2="58" y2="134"/><line x1="38" y1="366" x2="58" y2="366"/></g>
+      <line class="dl" x1="42" y1="134" x2="42" y2="366" marker-start="url(#ar)" marker-end="url(#ar)"/>
+      <text class="dt" transform="translate(36 300) rotate(-90)">Ø<tspan id="sD">232</tspan> Tubus</text>
+      <g class="dl"><line x1="552" y1="126" x2="660" y2="126"/><line x1="552" y1="374" x2="660" y2="374"/><line x1="532" y1="129" x2="610" y2="129"/><line x1="532" y1="371" x2="610" y2="371"/></g>
+      <line class="dl" x1="605" y1="129" x2="605" y2="371" marker-start="url(#ar)" marker-end="url(#ar)"/>
+      <text class="dt" transform="translate(600 290) rotate(-90)">Ø<tspan id="sOD">238,5</tspan> Kappe</text>
+      <line class="dl" x1="655" y1="126" x2="655" y2="374" marker-start="url(#ar)" marker-end="url(#ar)"/>
+      <text class="dt" transform="translate(650 290) rotate(-90)">Ø<tspan id="sLid">246,5</tspan> Deckel</text>
+    </svg>
