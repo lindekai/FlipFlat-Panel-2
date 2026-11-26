@@ -2,6 +2,11 @@
 
 All notable changes to this project. · Alle wichtigen Änderungen am Projekt.
 
+## Docs – 2026-11-26
+
+- Design sheet visible on GitHub: every section as an image in [docs/en/design-sheet.md](docs/en/design-sheet.md), gallery in the READMEs. · Entwurfsblatt auf GitHub sichtbar: alle Abschnitte als Bilder in [docs/de/entwurfsblatt.md](docs/de/entwurfsblatt.md), Galerie in den READMEs.
+- Light banner now shows the rendering like the dark one. · Helles Banner zeigt jetzt wie das dunkle das Rendering.
+
 ## Rev J – 2026-11-25
 
 - Shield printed in **one piece** (225 mm fits a 256 mm printer). · Kappe als **ein Druckteil**.
