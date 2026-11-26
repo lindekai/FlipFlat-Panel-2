@@ -61,7 +61,22 @@ Das erste Zielgerät ist der **Skywatcher 200/1000 PDS**. Alle Maße leiten sich
   <img alt="Bemaßte Seitenansicht" src="docs/images/drawing-side-view.de.svg" width="100%">
 </p>
 
-Das interaktive Entwurfsblatt mit 3D-Modell, Schnittansicht und Bewegungsstudie liegt in [`docs/design-sheet.html`](docs/design-sheet.html). Herunterladen und im Browser öffnen.
+### Entwurfsblatt
+
+Das Entwurfsblatt enthält 3D-Modell, Konzeptvergleich, Parameter, alle Blätter und Details, Teilelisten und die Messliste.
+
+- **Alle Abschnitte als Bilder:** [docs/de/entwurfsblatt.md](docs/de/entwurfsblatt.md)
+- **Interaktiv im Browser** (3D drehen, Schnittansicht, Deckelwinkel): [https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html](https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html)
+
+<p align="center">
+  <a href="docs/de/entwurfsblatt.md"><img alt="3D" src="docs/images/sheet-01-3d-modell.png" width="49%"></a>
+  <a href="docs/de/entwurfsblatt.md"><img alt="Konzepte" src="docs/images/sheet-04-konzepte.png" width="49%"></a>
+</p>
+<p align="center">
+  <a href="docs/de/entwurfsblatt.md"><img alt="Bewegungsstudie" src="docs/images/sheet-08-bewegungsstudie.png" width="32%"></a>
+  <a href="docs/de/entwurfsblatt.md"><img alt="Detail A" src="docs/images/sheet-07-detail-a-randklemmung.png" width="32%"></a>
+  <a href="docs/de/entwurfsblatt.md"><img alt="Antriebsblock" src="docs/images/sheet-09-front-antriebsblock.png" width="32%"></a>
+</p>
 
 ## Eckdaten
 
@@ -83,6 +98,7 @@ Alle Durchmesser ergeben sich aus zwei Messwerten. Siehe [Design → Parameter](
 
 | | Deutsch | English |
 |---|---|---|
+| Entwurfsblatt (alle Abschnitte) | [docs/de/entwurfsblatt.md](docs/de/entwurfsblatt.md) | [docs/en/design-sheet.md](docs/en/design-sheet.md) |
 | Design und Entscheidungen | [docs/de/design.md](docs/de/design.md) | [docs/en/design.md](docs/en/design.md) |
 | Teleskop vermessen | [docs/de/messen.md](docs/de/messen.md) | [docs/en/measuring.md](docs/en/measuring.md) |
 | Bauanleitung (Entwurf) | [docs/de/bauanleitung.md](docs/de/bauanleitung.md) | [docs/en/build-guide.md](docs/en/build-guide.md) |

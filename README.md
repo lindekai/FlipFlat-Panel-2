@@ -61,7 +61,22 @@ The first target is the **Skywatcher 200/1000 PDS**. All dimensions derive from 
   <img alt="Dimensioned side view" src="docs/images/drawing-side-view.en.svg" width="100%">
 </p>
 
-The interactive design sheet with a 3D model, a cutaway and a motion study is in [`docs/design-sheet.html`](docs/design-sheet.html). Download it and open it in a browser. The sheet is in German.
+### Design sheet
+
+The design sheet holds the 3D model, the concept comparison, parameters, all sheets and details, parts lists and the measurement list. It is in German.
+
+- **Every section as an image:** [docs/en/design-sheet.md](docs/en/design-sheet.md)
+- **Interactive in the browser** (rotate 3D, cutaway, lid angle): [https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html](https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html)
+
+<p align="center">
+  <a href="docs/en/design-sheet.md"><img alt="3D" src="docs/images/sheet-01-3d-modell.png" width="49%"></a>
+  <a href="docs/en/design-sheet.md"><img alt="Konzepte" src="docs/images/sheet-04-konzepte.png" width="49%"></a>
+</p>
+<p align="center">
+  <a href="docs/en/design-sheet.md"><img alt="Bewegungsstudie" src="docs/images/sheet-08-bewegungsstudie.png" width="32%"></a>
+  <a href="docs/en/design-sheet.md"><img alt="Detail A" src="docs/images/sheet-07-detail-a-randklemmung.png" width="32%"></a>
+  <a href="docs/en/design-sheet.md"><img alt="Antriebsblock" src="docs/images/sheet-09-front-antriebsblock.png" width="32%"></a>
+</p>
 
 ## Key data
 
@@ -83,6 +98,7 @@ All diameters follow from two measured values. See [Design → Parameters](docs/
 
 | | English | Deutsch |
 |---|---|---|
+| Design sheet (all sections) | [docs/en/design-sheet.md](docs/en/design-sheet.md) | [docs/de/entwurfsblatt.md](docs/de/entwurfsblatt.md) |
 | Design and decisions | [docs/en/design.md](docs/en/design.md) | [docs/de/design.md](docs/de/design.md) |
 | Measuring the telescope | [docs/en/measuring.md](docs/en/measuring.md) | [docs/de/messen.md](docs/de/messen.md) |
 | Build guide (draft) | [docs/en/build-guide.md](docs/en/build-guide.md) | [docs/de/bauanleitung.md](docs/de/bauanleitung.md) |
