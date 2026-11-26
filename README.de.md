@@ -66,7 +66,7 @@ Das erste Zielgerät ist der **Skywatcher 200/1000 PDS**. Alle Maße leiten sich
 Das Entwurfsblatt enthält 3D-Modell, Konzeptvergleich, Parameter, alle Blätter und Details, Teilelisten und die Messliste.
 
 - **Alle Abschnitte als Bilder:** [docs/de/entwurfsblatt.md](docs/de/entwurfsblatt.md)
-- **Interaktiv im Browser** (3D drehen, Schnittansicht, Deckelwinkel): [https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html](https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html)
+- **Interaktiv im Browser** (3D drehen, Schnittansicht, Deckelwinkel): [`docs/design-sheet.html`](docs/design-sheet.html) herunterladen und öffnen
 
 <p align="center">
   <a href="docs/de/entwurfsblatt.md"><img alt="3D" src="docs/images/sheet-01-3d-modell.png" width="49%"></a>

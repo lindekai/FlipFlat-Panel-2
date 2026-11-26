@@ -1,6 +1,6 @@
 # Entwurfsblatt
 
-Alle Abschnitte des interaktiven Entwurfsblatts als Bilder. **Interaktiv** (3D-Modell drehen, Schnittansicht, Deckelwinkel per Schieberegler): [https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html](https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html) · Quelle: [`design-sheet.html`](../design-sheet.html)
+Alle Abschnitte des interaktiven Entwurfsblatts als Bilder. **Interaktiv** (3D-Modell drehen, Schnittansicht, Deckelwinkel per Schieberegler): [`design-sheet.html`](../design-sheet.html) herunterladen und im Browser öffnen.
 
 ![Kopf des Entwurfsblatts](../images/sheet-00-kopf.png)
 

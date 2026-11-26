@@ -66,7 +66,7 @@ The first target is the **Skywatcher 200/1000 PDS**. All dimensions derive from 
 The design sheet holds the 3D model, the concept comparison, parameters, all sheets and details, parts lists and the measurement list. It is in German.
 
 - **Every section as an image:** [docs/en/design-sheet.md](docs/en/design-sheet.md)
-- **Interactive in the browser** (rotate 3D, cutaway, lid angle): [https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html](https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html)
+- **Interactive in the browser** (rotate 3D, cutaway, lid angle): download [`docs/design-sheet.html`](docs/design-sheet.html) and open it
 
 <p align="center">
   <a href="docs/en/design-sheet.md"><img alt="3D" src="docs/images/sheet-01-3d-modell.png" width="49%"></a>

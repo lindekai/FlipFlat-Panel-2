@@ -1,6 +1,6 @@
 # Design sheet
 
-Every section of the interactive design sheet as an image. The sheet itself is in German. **Interactive** (rotate the 3D model, cutaway, lid angle slider): [https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html](https://lindekai.github.io/FlipFlat-Panel-2/design-sheet.html) · Source: [`design-sheet.html`](../design-sheet.html)
+Every section of the interactive design sheet as an image. The sheet itself is in German. **Interactive** (rotate the 3D model, cutaway, lid angle slider): download [`design-sheet.html`](../design-sheet.html) and open it in a browser.
 
 ![Design sheet header](../images/sheet-00-kopf.png)
 
